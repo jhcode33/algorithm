@@ -1,4 +1,4 @@
-package programmers.level_2;
+package programmers.day2;
 
 public class OverlapString {
     public static void main(String[] args) {
