@@ -1,6 +1,4 @@
-package programmers.day3;
-
-import java.io.IOException;
+package programmers.day3.mixStrings;
 
 public class MixStrings {
     public static void main(String[] args) {
