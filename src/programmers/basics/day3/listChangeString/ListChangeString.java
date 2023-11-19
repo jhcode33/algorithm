@@ -1,4 +1,4 @@
-package programmers.day3.listChangeString;
+package programmers.basics.day3.listChangeString;
 
 public class ListChangeString {
     public static void main(String[] args) {

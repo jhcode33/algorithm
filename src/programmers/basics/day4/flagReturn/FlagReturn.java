@@ -1,4 +1,4 @@
-package programmers.day4.flagReturn;
+package programmers.basics.day4.flagReturn;
 
 public class FlagReturn {
     public static void main(String[] args) {

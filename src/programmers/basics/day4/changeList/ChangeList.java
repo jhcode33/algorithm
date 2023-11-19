@@ -1,4 +1,4 @@
-package programmers.day4.changeList;
+package programmers.basics.day4.changeList;
 
 public class ChangeList {
     public static void main(String[] args) {

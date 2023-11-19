@@ -1,4 +1,4 @@
-package programmers.day4.numberedPair;
+package programmers.basics.day4.numberedPair;
 
 public class NumberedPair {
     public static void main(String[] args) {

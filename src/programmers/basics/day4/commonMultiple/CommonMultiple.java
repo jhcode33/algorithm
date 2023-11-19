@@ -1,4 +1,4 @@
-package programmers.day4.commonMultiple;
+package programmers.basics.day4.commonMultiple;
 
 public class CommonMultiple {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package programmers.day4.drainage;
+package programmers.basics.day4.drainage;
 
 public class Drainage {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package programmers.day3.mixStrings;
+package programmers.basics.day3.mixStrings;
 
 public class MixStrings {
     public static void main(String[] args) {

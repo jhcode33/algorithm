@@ -1,4 +1,4 @@
-package programmers.day4.ifString;
+package programmers.basics.day4.ifString;
 
 import java.util.Map;
 import java.util.function.BiFunction;

@@ -1,4 +1,4 @@
-package programmers.day3.stringMultiplication;
+package programmers.basics.day3.stringMultiplication;
 
 public class StringMultiplication {
     public static void main(String[] args) {
