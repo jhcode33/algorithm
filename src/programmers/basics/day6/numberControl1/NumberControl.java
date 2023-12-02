@@ -1,4 +1,4 @@
-package programmers.basics.day6.numberControl;
+package programmers.basics.day6.numberControl1;
 
 import java.util.Map;
 import java.util.function.BiFunction;
