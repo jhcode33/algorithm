@@ -1,4 +1,4 @@
-package programmers.basics.day6.progression;
+package programmers.basics.day6.progression1;
 
 public class Progression {
     public static void main(String[] args) {
