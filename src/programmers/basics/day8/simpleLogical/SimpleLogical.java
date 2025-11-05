@@ -1,4 +1,4 @@
-package programmers.basics.day8;
+package programmers.basics.day8.simpleLogical;
 
 public class SimpleLogical {
     public static void main(String[] args) {
