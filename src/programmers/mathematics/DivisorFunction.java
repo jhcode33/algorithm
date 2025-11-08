@@ -1,3 +1,5 @@
+package programmers.mathematics;
+
 import java.util.List;
 import java.util.ArrayList;
 
@@ -16,13 +18,7 @@ public class DivisorFunction {
     }
 
     public static int getDivisorCount(int n) {
-        List<Integer> divisors = new ArrayList<>();
-
-        for (int i = 1; i * i <= n; i++) {
-            if (n % i == 0) {
-                addDivisors(divisors, i, n / i);
-            }
-        }
+        List<Integer> divisors = getDivisors(n);
 
         return divisors.size();
     }
