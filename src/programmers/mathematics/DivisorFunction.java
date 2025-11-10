@@ -3,6 +3,7 @@ package programmers.mathematics;
 import java.util.List;
 import java.util.ArrayList;
 
+// 약수 클래스
 public class DivisorFunction {
 
     public static List<Integer> getDivisors(int n) {
