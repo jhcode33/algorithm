@@ -24,7 +24,7 @@ my_string	result
 [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 2, 0, 1, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0]를 return 합니다.
 */
 
-public class StringCount {
+public class StringCount1 {
     public int[] solution(String my_string) {
         int[] result = new int[52];
 
