@@ -43,7 +43,7 @@ public class CountingBetweenX {
     class Solution {
         public int[] solution(String myString) {
             return Arrays.stream(myString.split("x", myString.length()))
-                    .mapToInt(x -> x.length())
+                    .mapToInt(String::length)
                     .toArray();
         }
     }
